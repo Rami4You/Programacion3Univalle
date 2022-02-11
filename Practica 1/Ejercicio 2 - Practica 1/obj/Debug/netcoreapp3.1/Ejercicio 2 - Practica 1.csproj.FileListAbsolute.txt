@@ -1,0 +1,13 @@
+C:\Users\orera\Desktop\Programacion 3 - Univalle\Tareas de Clase\Ejercicio 2 - Practica 1\bin\Debug\netcoreapp3.1\Ejercicio 2 - Practica 1.exe
+C:\Users\orera\Desktop\Programacion 3 - Univalle\Tareas de Clase\Ejercicio 2 - Practica 1\bin\Debug\netcoreapp3.1\Ejercicio 2 - Practica 1.deps.json
+C:\Users\orera\Desktop\Programacion 3 - Univalle\Tareas de Clase\Ejercicio 2 - Practica 1\bin\Debug\netcoreapp3.1\Ejercicio 2 - Practica 1.runtimeconfig.json
+C:\Users\orera\Desktop\Programacion 3 - Univalle\Tareas de Clase\Ejercicio 2 - Practica 1\bin\Debug\netcoreapp3.1\Ejercicio 2 - Practica 1.runtimeconfig.dev.json
+C:\Users\orera\Desktop\Programacion 3 - Univalle\Tareas de Clase\Ejercicio 2 - Practica 1\bin\Debug\netcoreapp3.1\Ejercicio 2 - Practica 1.dll
+C:\Users\orera\Desktop\Programacion 3 - Univalle\Tareas de Clase\Ejercicio 2 - Practica 1\bin\Debug\netcoreapp3.1\Ejercicio 2 - Practica 1.pdb
+C:\Users\orera\Desktop\Programacion 3 - Univalle\Tareas de Clase\Ejercicio 2 - Practica 1\obj\Debug\netcoreapp3.1\Ejercicio 2 - Practica 1.csprojAssemblyReference.cache
+C:\Users\orera\Desktop\Programacion 3 - Univalle\Tareas de Clase\Ejercicio 2 - Practica 1\obj\Debug\netcoreapp3.1\Ejercicio 2 - Practica 1.AssemblyInfoInputs.cache
+C:\Users\orera\Desktop\Programacion 3 - Univalle\Tareas de Clase\Ejercicio 2 - Practica 1\obj\Debug\netcoreapp3.1\Ejercicio 2 - Practica 1.AssemblyInfo.cs
+C:\Users\orera\Desktop\Programacion 3 - Univalle\Tareas de Clase\Ejercicio 2 - Practica 1\obj\Debug\netcoreapp3.1\Ejercicio 2 - Practica 1.csproj.CoreCompileInputs.cache
+C:\Users\orera\Desktop\Programacion 3 - Univalle\Tareas de Clase\Ejercicio 2 - Practica 1\obj\Debug\netcoreapp3.1\Ejercicio 2 - Practica 1.dll
+C:\Users\orera\Desktop\Programacion 3 - Univalle\Tareas de Clase\Ejercicio 2 - Practica 1\obj\Debug\netcoreapp3.1\Ejercicio 2 - Practica 1.pdb
+C:\Users\orera\Desktop\Programacion 3 - Univalle\Tareas de Clase\Ejercicio 2 - Practica 1\obj\Debug\netcoreapp3.1\Ejercicio 2 - Practica 1.genruntimeconfig.cache
